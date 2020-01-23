@@ -16,11 +16,11 @@
 
 * [CSS Structure](structure/css-structure.md)
 
-## 付記
+## 付記 <a id="notes"></a>
 
-* [落とし穴](fu-ji/pitfalls.md)
-* [懸念点](fu-ji/apprehensions.md)
-* [リソース](fu-ji/resource.md)
+* [落とし穴](notes/pitfalls.md)
+* [懸念点](notes/apprehensions.md)
+* [リソース](notes/resource.md)
 * [要約](summary.md)
 
 ## 外部リソース <a id="external-resource"></a>
