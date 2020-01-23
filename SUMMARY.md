@@ -1,7 +1,6 @@
 # Table of contents
 
-* [RSCSS 日本語訳](README.md)
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 
 ## コンポーネント（Components） <a id="components"></a>
 
