@@ -3,14 +3,14 @@
 * [RSCSS 日本語訳](README.md)
 * [Introduction](introduction.md)
 
-## コンポーネント（Components）
+## コンポーネント（Components） <a id="components"></a>
 
-* [コンポーネント について](konpnentocomponents/about-components.md)
-* [エレメント（Elements）](konpnentocomponents/elements.md)
-* [バリアント（Variants）](konpnentocomponents/variants.md)
-* [ネストされたコンポーネント \(Nested Components\)](konpnentocomponents/nested-components.md)
-* [レイアウト（Layouts）](konpnentocomponents/layouts.md)
-* [ヘルパー（Helpers）](konpnentocomponents/helpers.md)
+* [コンポーネント について](components/about-components.md)
+* [エレメント（Elements）](components/elements.md)
+* [バリアント（Variants）](components/variants.md)
+* [ネストされたコンポーネント \(Nested Components\)](components/nested-components.md)
+* [レイアウト（Layouts）](components/layouts.md)
+* [ヘルパー（Helpers）](components/helpers.md)
 
 ## 構造（Structure） <a id="structure"></a>
 
