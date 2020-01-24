@@ -1,6 +1,6 @@
 # レイアウト（Layouts）
 
-![](../.gitbook/assets/image%20%284%29.png)
+![.recipe-list&#x3068;&#x3044;&#x3046;&#x30EC;&#x30A4;&#x30A2;&#x30A6;&#x30C8;&#x3068;.recipe-item&#x30B3;&#x30F3;&#x30DD;&#x30FC;&#x30CD;&#x30F3;&#x30C8;](../.gitbook/assets/image%20%284%29.png)
 
 ## 位置指定プロパティを避ける
 

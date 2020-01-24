@@ -1,6 +1,6 @@
 # ネストされたコンポーネント \(Nested Components\)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![.article-link&#x306B;&#x30CD;&#x30B9;&#x30C8;&#x3055;&#x308C;&#x305F;.vote-box&#x30B3;&#x30F3;&#x30DD;&#x30FC;&#x30CD;&#x30F3;&#x30C8;](../.gitbook/assets/image%20%283%29.png)
 
 ```markup
 <div class='article-link'>

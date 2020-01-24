@@ -2,7 +2,7 @@
 
 エレメントはコンポーネントの中に位置します.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![.field&#x3068;.action&#x3068;&#x3044;&#x3046;&#x30A8;&#x30EC;&#x30E1;&#x30F3;&#x30C8;](../.gitbook/assets/image%20%281%29.png)
 
 ## エレメントの命名
 

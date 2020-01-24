@@ -2,7 +2,7 @@
 
 コンポーネントとエレメントは、バリアントを含むことが出来ます.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![.search-form&#x3078;&#x4ED8;&#x4E0E;&#x3055;&#x308C;&#x308B;&#x30D0;&#x30EA;&#x30A2;&#x30F3;&#x30C8;.-prefixed&#x3068;.-compact](../.gitbook/assets/image%20%282%29.png)
 
 ## バリアントの命名
 
