@@ -1,12 +1,12 @@
 ---
-description: RSCSSの日本語訳です
+description: RSCSSの非公式日本語訳です
 ---
 
 # Introduction
 
 > Styling CSS without losing your sanity
 
-CSSスタイルシート構築のための合理的なシステム, 略してRSCSS（**R**easonable **S**ystem for **C**SS **S**tylesheet **S**tructure.）です
+CSSスタイルシート構築のための合理的なシステム, 略して[RSCSS](https://rscss.io/)（**R**easonable **S**ystem for **C**SS **S**tylesheet **S**tructure）です
 
 RSCSSは保守性の高いCSSを構築するためのいくつかのシンプルなアイデアを提供します
 
